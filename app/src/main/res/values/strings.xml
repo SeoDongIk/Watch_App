@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLE Test1 Watch</string>
+    <string name="test">backgroundtest</string>
+</resources>
